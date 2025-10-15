@@ -1,9 +1,6 @@
 {
+  "framework": "nextjs",
   "buildCommand": "next build",
   "devCommand": "next dev",
-  "installCommand": "npm install",
-  "framework": "nextjs",
-  "regions": ["bom1"],
-  "outputDirectory": ".next",
-  "ignoreCommand": "exit 0"
+  "installCommand": "npm install"
 }
